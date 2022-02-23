@@ -2,5 +2,5 @@
 
 | Number | Folder                    | Description           |
 | :----: | --------------------------| --------------------- |
-|   1    | Assignments 1             | Get Started           |
-|   2    | Basic Shell               | A Shell made in Python|
+|   1    | 01-A01                    | Get Started           |
+|   2    | 02-P01                    | Implementation of a basic shell|
