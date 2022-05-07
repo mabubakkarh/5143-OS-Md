@@ -5,3 +5,6 @@ Make sure your computer has python 3 installed. If you are using macOS, you will
 
 Type python3 main.py -w (number of writer you want to input)
 - python3 main.py -w 2 
+
+If you wish to run with more than 5 writer, you can tune the latency of the output to make it run faster.
+search "sleep" in progress bar file and you will find 3 different sleep to tinke with! :)
