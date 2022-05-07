@@ -1,5 +1,4 @@
-## P03 Scheduling-Algorithm-Simulator
-### Asif Saif Uddin
+
 ### Description :
 Simulator will show a graphical represestation of how processes done in a CPU . There are 5 Scheduling algorithm implemneted. They are :
 - First-Come, First-Served (FCFS) Scheduling.
@@ -34,29 +33,14 @@ I/O Burst time= I/O Burst time .
 
 ### Screen Shots
 
-![Screenshot from 2022-04-21 20-12-53](https://user-images.githubusercontent.com/59512321/164478667-68ab972d-2d77-42e3-ac5c-c8f8c56502d3.png)
+![]()
 
 
-![Screenshot from 2022-04-21 20-13-05](https://user-images.githubusercontent.com/59512321/164479209-f0de735e-d755-4e9d-9dab-f7e4efd27c75.png)
-
-![Screenshot from 2022-04-21 20-13-50](https://user-images.githubusercontent.com/59512321/164479243-b5b9af66-14ad-4a7b-8a41-b028a850bec2.png)
-
-![Screenshot from 2022-04-21 20-13-52](https://user-images.githubusercontent.com/59512321/164479298-52c7c246-0536-45a9-b4d7-2ec339b77cfb.png)
-
-
-![Screenshot from 2022-04-21 20-13-55](https://user-images.githubusercontent.com/59512321/164479333-72731d33-d77c-4550-85d6-2d2240ac6f9b.png)
-
-
-
-![Screenshot from 2022-04-21 20-13-57](https://user-images.githubusercontent.com/59512321/164479354-18361fdd-e12d-4b94-a48d-394dc8b1caa8.png)
 
 ### VIDEO 
 
 
 
-
-
-https://user-images.githubusercontent.com/59512321/164487040-671c9d02-9cb5-48e0-a8b1-eb9355fcca7a.mp4
 
 
 
