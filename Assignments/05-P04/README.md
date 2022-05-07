@@ -13,8 +13,8 @@ Now run the program by typing
 
 
 The program should be run 5 times to simulate race condition-
-# With priority
-# WIthout priority
-# Sleep
-# Run With priority again
-# Run Without priority again
+* With priority
+* WIthout priority
+* Sleep
+* Run With priority again
+* Run Without priority again
