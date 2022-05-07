@@ -1,0 +1,8 @@
+13:44:30  p1 started after waiting for 0 seconds
+13:44:30  p6 started after waiting for -3 seconds
+13:44:30  p4 started after waiting for -2 seconds
+13:44:30  p5 started after waiting for -4 seconds
+13:44:30  p3 started after waiting for -4 seconds
+13:44:30  p2 started after waiting for -2 seconds
+Total wait time: 48
+Average process wait time: 8.0
