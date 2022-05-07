@@ -18,3 +18,5 @@ The program should be run 5 times to simulate race condition-
 * Sleep
 * Run With priority again
 * Run Without priority again
+
+After every run generating a modified memory, we need to save the file with appropiate name to recognize the run.
