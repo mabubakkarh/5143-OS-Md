@@ -10,3 +10,11 @@ Afrer completing all the necessary packages run this command:
 
 Now run the program by typing
 - python3 Main.py
+
+
+The program should be run 5 times to simulate race condition-
+# With priority
+# WIthout priority
+# Sleep
+# Run With priority again
+# Run Without priority again
